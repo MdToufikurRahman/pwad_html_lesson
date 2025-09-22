@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+.box1{
+    width: 200px;
+    height: 60px;
+    border: 2px solid coral;
+    padding: 8px;
+    margin: 10px;
+}
